@@ -1,6 +1,6 @@
 1: acessar por localhost ou em servidor.
 
-then preview:
+preview:
 http://localhost:8080/app/
 http://localhost:8080/app/index-hospital.html
 http://localhost:8080/app/index-university.html
